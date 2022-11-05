@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-02T14:40:36 IST" name="Default suite" finished-at="2022-11-02T14:42:03 IST" duration-ms="87537">
+    <groups>
+    </groups>
+    <test started-at="2022-11-02T14:40:36 IST" name="Default test" finished-at="2022-11-02T14:42:03 IST" duration-ms="87537">
+      <class name="TestCases.ValidationOfProduct">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.ValidationOfProduct@3bf9ce3e]" started-at="2022-11-02T14:40:36 IST" name="setup" finished-at="2022-11-02T14:41:00 IST" duration-ms="24336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateProductInfo()[pri:0, instance:TestCases.ValidationOfProduct@3bf9ce3e]" started-at="2022-11-02T14:41:00 IST" name="validateProductInfo" finished-at="2022-11-02T14:42:03 IST" duration-ms="62950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProductInfo -->
+        <test-method is-config="true" signature="closeall()[pri:0, instance:TestCases.ValidationOfProduct@3bf9ce3e]" started-at="2022-11-02T14:42:03 IST" name="closeall" finished-at="2022-11-02T14:42:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeall -->
+      </class> <!-- TestCases.ValidationOfProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
