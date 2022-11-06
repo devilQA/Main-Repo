@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-01T20:33:25 IST" name="Default suite" finished-at="2022-11-01T20:33:40 IST" duration-ms="15025">
+    <groups>
+    </groups>
+    <test started-at="2022-11-01T20:33:25 IST" name="Default test" finished-at="2022-11-01T20:33:40 IST" duration-ms="15025">
+      <class name="Test.TestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestCase@3bf9ce3e]" started-at="2022-11-01T20:33:26 IST" name="setup" finished-at="2022-11-01T20:33:32 IST" duration-ms="6089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateYourStorePage()[pri:0, instance:Test.TestCase@3bf9ce3e]" started-at="2022-11-01T20:33:32 IST" name="validateYourStorePage" finished-at="2022-11-01T20:33:37 IST" duration-ms="4924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateYourStorePage -->
+        <test-method is-config="true" signature="closeall()[pri:0, instance:Test.TestCase@3bf9ce3e]" started-at="2022-11-01T20:33:37 IST" name="closeall" finished-at="2022-11-01T20:33:40 IST" duration-ms="3842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeall -->
+      </class> <!-- Test.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
