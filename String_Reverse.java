@@ -5,7 +5,7 @@ public class String_Reverse{
 		{
 			String str="my name is lakhan";
 				System.out.println(str);
-				
+			// write your code here	
 		}
 	}
 	
